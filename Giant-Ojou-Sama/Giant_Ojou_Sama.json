@@ -1414,9 +1414,23 @@
     },
     "056.7": {
       "title": "Vol. 6 Bonus. Winter! Each and Every Year",
-      "last_updated": "1772056680",
+      "last_updated": "1772230392",
       "groups": {
-        "RexmexFG": "/proxy/api/imgchest/chapter/ne7b3wv9my5"
+        "RexmexFG": "/proxy/api/imgchest/chapter/9p4n6286z7n"
+      }
+    },
+    "007.5": {
+      "title": "Vol. 1 Bonus! End-of-Volume!",
+      "last_updated": "1772230384",
+      "groups": {
+        "RexmexFG": "/proxy/api/imgchest/chapter/m9yxqv3q37q"
+      }
+    },
+    "015.5": {
+      "title": "Vol. 2 Bonus. Interview! Madoka Q&A",
+      "last_updated": "1772230389",
+      "groups": {
+        "RexmexFG": "/proxy/api/imgchest/chapter/92499a3924n"
       }
     }
   }
